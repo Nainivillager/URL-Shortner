@@ -12,4 +12,4 @@
 10. For Creating a project in Django we need to write [ >>django-admin startproject url_shortner ]
 11. Now move inside the url_shortner folder and run the server using command [ >>python manage.py runserver ]
 12. Now you are all ready to work on the project.
-13. You can now see the my code and try to understand the project
+13. You can now see my code for further reference and try to understand the project.
