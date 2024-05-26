@@ -1,4 +1,4 @@
-*** URL SHORTNER USING PYTHON DJANGO ***
+                                      *** URL SHORTNER USING PYTHON DJANGO ***
 ** First Steps to do this project ** 
 1. Create a folder in your desktop <Django>
 2. Check if you have python in your system if not first download it.
